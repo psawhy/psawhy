@@ -17,5 +17,6 @@ totla_bill = bill + totla_tip_amount
 bill_per_person = totla_bill / people
 final_amount = round(bill_per_person , 2)
 print(f"eache persion should pay : ${final_amount}")
+print(f"eache persion should pay : ${final_amount}")
 
 # day3
